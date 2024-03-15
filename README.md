@@ -1,2 +1,2 @@
-# Projeto-Exerc-cios-de-Matem-tica
+# Projeto-Exercicios-de-Matematica
 Gerador de exercícios de matemática
